@@ -1,6 +1,5 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;400&display=swap');
-
 *{
   box-sizing: border-box;
   background: linear-gradient(to right,#edc409 , #333);
@@ -17,6 +16,25 @@
     text-align: center;
     padding: 20px 0;
     font-size: 40px;
+  }
+
+  .btn-galeria{
+    padding: 15px 15px;
+    text-align: center;
+  }
+
+  .nav_galeria{
+    background: transparent;
+    text-decoration: none;
+    text-align:center;
+    font-size: 25px;
+    color: #fff;
+  }
+
+  .nav_galeria:hover{
+    transition: 0.3s;
+    font-size: 27px;
+    color: #eaf704;
   }
 
   .linea {

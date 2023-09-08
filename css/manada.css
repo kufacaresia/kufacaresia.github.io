@@ -129,3 +129,21 @@ section .card .image img{
     opacity: 1;
     color: #722ae8;
 }
+
+.btn-manada{
+    position:relative;
+    padding: 3px 3 px;
+    background-color: transparent;
+
+}
+.nav_manada{
+    color: yellow;
+    font-size: 30px;
+    text-decoration:none;
+    cursor: pointer;
+}
+
+.nav_manada:hover{
+   color: #fff;
+   font-size: 35px;
+}
