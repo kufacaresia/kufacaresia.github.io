@@ -14,7 +14,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: linear-gradient(#0000008c 0%, #0000008c 100%), url('../image/index/animas.png');
+    background-image: linear-gradient(#0000008c 80%, #0000008c 80%), url('../image/index/animas.png');
     background-size: cover;
 
 }
@@ -39,7 +39,7 @@ body{
     color: #fff;
 }
 
-.hero::before{
+/*.hero::before{
     content:"";
     position: absolute;
     top: 0;
@@ -52,7 +52,7 @@ body{
     z-index: -1;
 
 
-}
+}*/
 
 /******* NAV *******/
 

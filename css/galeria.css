@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;400&display=swap');
 *{
   box-sizing: border-box;
-  background: linear-gradient(to right,#edc409 , #333);
+  background-image: url('../image/index/small-memory-lp-1920x1200.jpg');
   margin: 0;
   padding: 0;
 }
