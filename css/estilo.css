@@ -14,13 +14,13 @@ body{
     position: absolute;
     width: 100%;
     background: linear-gradient(rgba(255,255,255,0) 80%, rgba(255,255,255,1)),
-    url(img/mountains-3627084_1280.jpg);
+    url(/img/mountains-3627084_1280.jpg);
     background-size: cover;
     height: 85%;
     z-index: -10;
 }
 .inicio .fondo-img{
-    background: url(img/hero.png);
+    background: url(/img/hero.png);
     background-size: cover;
     background-position: bottom;
     position: absolute;
@@ -165,7 +165,7 @@ h2{
 
 /* SECCION DISFRUTA */
 .surfing{
-    background: url(img/25-2.jpg);
+    background: url(/img/25-2.jpg);
     height: 100vh;
     background-size: cover;
     position: relative;
@@ -196,7 +196,7 @@ h2{
 
 /* SECCION ES AHORA */
 .esahora{
-    background: url(img/IMG_20230128_104920.jpg);
+    background: url(/img/IMG_20230128_104920.jpg);
     background-size: cover;
     height: 100vh;
 }
